@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516015506949",
+    "project_id": "appfoodmenu-36f3d",
+    "storage_bucket": "appfoodmenu-36f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516015506949:android:59bfef4eedb37c11fa7e6c",
+        "android_client_info": {
+          "package_name": "pam.latihan.appfoodmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516015506949-vb7bpgce7ek9vabkc8uljtvo11qrvk8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbt9PSs5-jYuZY2knuJTfwyK3NN1SwIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516015506949-vb7bpgce7ek9vabkc8uljtvo11qrvk8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
